@@ -1,0 +1,24 @@
+{
+  "name": "sellers-wagner-fischer",
+  "version": "1.0.0",
+  "description": "Sellers variant of Wagner-Fischer algorithm for substring approximate match",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "string-matching",
+    "substring",
+    "approximate",
+    "matching"
+  ],
+  "author": "Julian de Bhal",
+  "license": "WTFPL",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
